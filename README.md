@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hamsel Brea García</h1>
 <h3 align="center">A passionate web developer</h3>
+<p align="center">
+    <a><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
+    <a><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" /></a>
+    <a><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
+</p>
 
 - 🔭 I’m currently working on **image processing library using GD on PHP**
 
@@ -42,4 +47,7 @@
     <a href="https://www.hackerearth.com/@hamselbg" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg"
             alt="@hamselbg" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/hbg07" target="blank"><img align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
+            alt="hbg07" height="30" width="40" /></a>
 </p>
