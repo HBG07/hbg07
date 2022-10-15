@@ -6,7 +6,7 @@
     <a><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
 </p>
 
-- 🔭 I’m currently working on **image processing library using GD on PHP**
+- 🔭 I’m currently working on **plugin to Moodle using PHP**
 
 - 🌱 I’m currently learning **React, Docker and TailwindCSS**
 
