@@ -6,7 +6,7 @@
     <a><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
 </p>
 
-<p align='center'>I love challenges 💪, and I'm constantly seeking to enhance my knowledge in the world of web programming with languages like 💻 <strong>TypeScript and Python</strong>.
+<p align='center'>💪 I love <strong>challenges</strong>, and I'm constantly seeking to enhance my knowledge in the world of 🌐 <strong>web programming</strong> with languages like 💻 <strong>TypeScript and Python</strong>.
 <br/>
 🔭 I’m currently working on a <strong>🏠 Mortgage website</strong> and 🌱 learning <strong>NextJS, TailwindCSS and Frappe</strong>
 </p>
