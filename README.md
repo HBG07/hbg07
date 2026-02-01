@@ -15,7 +15,7 @@
 🤖 Strong in AI fundamentals and <strong>real-world AI</strong> model integration.
 </p>
 
- <h2 align='center'>🗺️ Journey Code</h2>
+ <h2 align='center'>🗺️ Coding Journey</h2>
 
 ```
 #*-[2026] develop: Continue Working at Zucchetti IT 🔄
