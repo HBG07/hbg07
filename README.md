@@ -10,9 +10,9 @@
 </p>
 
 <p align='center'>
-💪 Challenge-driven developer working with 💻 TypeScript, Python, and C#.
+💪 <strong>Challenge-driven developer</strong> working with 💻 TypeScript, Python, and C#.
 </br>
-🤖 Strong in AI fundamentals and real-world AI model integration.
+🤖 Strong in AI fundamentals and <strong>real-world AI</strong> model integration.
 </p>
 
  <h2 align='center'>🗺️ Journey Code</h2>
