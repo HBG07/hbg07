@@ -2,8 +2,8 @@
 <h3 align="center">A passionate developer</h3>
 <p align="center">
     <a><img src="https://img.shields.io/badge/vscode-ide-blue?style=for-the-badge&logo=codecrafters" /></a>
+    <a><img src="https://img.shields.io/badge/+10_years-coding-orange?style=for-the-badge&logo=fireship" /></a>
     <a><img src="https://img.shields.io/badge/vibe-ai-red?style=for-the-badge&logo=github" /></a>
-    <a><img src="https://img.shields.io/badge/+10_years-coding-green?style=for-the-badge&logo=fireship" /></a>
     <!-- <a><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=coder&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a> -->
