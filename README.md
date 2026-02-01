@@ -26,6 +26,7 @@
 #|-[2023] refactor: Lead team at IguanaIT 💪
 #|-[2023] feat/side: Start working at Mortgage website 🏦
 #|-[2022] staged: Finish University of Matanzas degree 👨‍🎓 
+#|-[2019] staged: Participate in the ACM-ICPC regional competitions 🏆 
 #|-[2018] init: Start University of Matanzas degree ⭐
 ```
 
